@@ -8,3 +8,8 @@ Script com interface gráfica utilizando bibliotecas Tkinter, Requests, Re
 
 pip install Tkinter
 pip install Requests
+
+Abra o terminal: 
+1- git clone https://github.com/jvictorr01/vuln3rpy.git
+2- cd vuln3rpy
+3- python3 vulnerabilidade.py
